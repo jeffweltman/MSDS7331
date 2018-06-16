@@ -7,4 +7,4 @@ schooldata\.csv
 
 data\.csv
 
-.ipynb_checkpoints\*
+.ipynb_checkpoints/**
