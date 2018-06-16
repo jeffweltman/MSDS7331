@@ -6,3 +6,5 @@ ChicagoTaxi-PullingSample\.ipynb
 schooldata\.csv
 
 data\.csv
+
+.ipynb_checkpoints\*
